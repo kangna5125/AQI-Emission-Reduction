@@ -142,7 +142,3 @@ python run_simulation.py --check-env
 | `output/road_action_training_report.txt` | Model accuracy and per-class metrics |
 | `output/comparison_chart.png` | 4-panel AQI & emission comparison (auto-opened) |
 | `output/summary.txt` | Human-readable AQI reduction report |
-
----
-
-*Built as part of B.Tech CSE coursework at Bennett University, Greater Noida.*
